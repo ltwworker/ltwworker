@@ -1,5 +1,3 @@
-<!-- Замени ltwworker на свой ник (Ctrl+H в VS Code) -->
-
 <!-- 🌊 Анимированная шапка -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hello,%20World!&fontSize=60&fontColor=ffffff&animation=twinkling&desc=добро%20пожаловать%20в%20мой%20уголок%20GitHub&descAlignY=72&descSize=18" />
@@ -21,13 +19,13 @@
 <!-- 🛠 Иконки технологий в одну анимированную полоску -->
 <h3 align="center">⚡ Арсенал</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,vscode,figma,docker&perline=11&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,cpp,js,git,figma&perline=6&theme=dark" />
 </p>
 
 ---
 
 <!-- 📊 3D-график коммитов (генерируется GitHub Actions, см. profile-3d.yml) -->
-<h3 align="center">📊 Мои коммиты</h3>
+<h3 align="center">📊 Мои коммиты в 3D</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ltwworker/ltwworker/output/profile-night-rainbow.svg" />
@@ -39,7 +37,7 @@
 ---
 
 <!-- 🐍 Змейка, которая ест твои коммиты (нужен workflow snake.yml, см. ниже) -->
-<h3 align="center"></h3>
+<h3 align="center">🐍 Змейка ест мои коммиты</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ltwworker/ltwworker/output/snake-dark.svg" />
@@ -47,8 +45,6 @@
     <img alt="snake" src="https://raw.githubusercontent.com/ltwworker/ltwworker/output/snake.svg" />
   </picture>
 </p>
-
----
 
 <!-- 🌊 Подвал -->
 <p align="center">
