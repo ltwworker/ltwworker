@@ -25,7 +25,7 @@
 ---
 
 <!-- 📊 3D-график коммитов (генерируется GitHub Actions, см. profile-3d.yml) -->
-<h3 align="center">📊 Мои коммиты в 3D</h3>
+<h3 align="center">📊 Коммиты</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ltwworker/ltwworker/output/profile-night-rainbow.svg" />
@@ -37,7 +37,7 @@
 ---
 
 <!-- 🐍 Змейка, которая ест твои коммиты (нужен workflow snake.yml, см. ниже) -->
-<h3 align="center">🐍 Змейка ест мои коммиты</h3>
+<h3 align="center"></h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ltwworker/ltwworker/output/snake-dark.svg" />
