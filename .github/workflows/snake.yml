@@ -27,7 +27,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
 
       - name: Собрать всё в одну папку
-        run: cp profile-3d-contrib/*.svg dist/
+        run: sudo cp profile-3d-contrib/*.svg dist/
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
